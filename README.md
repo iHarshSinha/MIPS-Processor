@@ -1,0 +1,1 @@
+This repository includes basic C code. Same code is also written in assembly using the MARS simulator, which also produces the corresponding machine code. The processor, implemented in Python, accepts the machine code as input and executes it as if running on a MIPS 32-bit processor, generating the desired output.
